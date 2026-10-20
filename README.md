@@ -45,3 +45,22 @@ npm run skills:publicar -- --repo /ruta/al/clone --push
 
 Las llaves de release nunca viven en un repo: la de la tienda y la del juez se
 inyectan por entorno (`ESME_PRIV_KEY`).
+
+## El store de módulos
+
+Los módulos del extension host (memoria y herramientas), firmados como todo lo
+demás. El índice va firmado; la firma de cada paquete vive **fuera** del
+tarball (en `firmas/`), para que el sha del paquete se pueda estabilizar.
+
+| módulo | versión | paquete | quién lo firma |
+|---|---|---|---|
+| `esme.nucleo.hola-mundo` | 0.1.0 | `paquetes/esme-nucleo-hola-mundo-0.1.0.tgz` | la llave del juez |
+| `esme.nucleo.troceo-pro` | 0.1.0 | `paquetes/esme-nucleo-troceo-pro-0.1.0.tgz` | la llave del juez |
+
+Se instala desde fuera con la raíz congelada:
+
+```bash
+npm run instalar -- --url https://raw.githubusercontent.com/Shiuglen/esme-tienda/main
+```
+
+Lo que no trae una firma válida no se instala.
