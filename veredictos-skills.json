@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "emitido": 1792474972640,
+  "emitido": 1792521776966,
   "firmante": "adaaf79999a7296f",
   "catalogoSha256": "040f08b5b9694450594f6a3ffd0929f41f6cc8d050ccabaafcc30cef8f7b78db",
   "skills": [
@@ -16,8 +16,8 @@
         "ficheros": 1,
         "bytes": 14886,
         "ejecutables": false,
-        "tokens": 3702,
-        "skillMdSha256": "e83d34f52ff12dd8a7c5134cd7e8140ea4541ec65e204f8a1e4cd366e30c4192"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -32,8 +32,8 @@
         "ficheros": 1,
         "bytes": 14539,
         "ejecutables": false,
-        "tokens": 3484,
-        "skillMdSha256": "4e3aacd6a380cd25bc6c2d67fdd1c926a9b22535b8a62109ecd33cefd909e3d9"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -48,8 +48,8 @@
         "ficheros": 1,
         "bytes": 11332,
         "ejecutables": false,
-        "tokens": 2752,
-        "skillMdSha256": "a6ed8ed56456b01ff8314c44eefc69897d9905ae4e06bb2b7036286efb79b5f0"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -64,8 +64,8 @@
         "ficheros": 1,
         "bytes": 20976,
         "ejecutables": false,
-        "tokens": 5225,
-        "skillMdSha256": "2db1e850379f255fd3091ef278cde24cd6c7d2ba23e360cc52ea522c40d4396e"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -80,8 +80,8 @@
         "ficheros": 1,
         "bytes": 13545,
         "ejecutables": false,
-        "tokens": 3374,
-        "skillMdSha256": "f0c5ed754057eb0c1e027e2587f59de816651feb5e837242296c43ea21cf621d"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -96,8 +96,8 @@
         "ficheros": 2,
         "bytes": 31689,
         "ejecutables": false,
-        "tokens": 5239,
-        "skillMdSha256": "06479d4305f286d23cfb99f5dc85695896785269664e1f6a8d800e3b71e70c10"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -112,8 +112,8 @@
         "ficheros": 1,
         "bytes": 15486,
         "ejecutables": false,
-        "tokens": 3734,
-        "skillMdSha256": "8b736cb9e55b82b265ab6ff78349c0e826e8a6df550deddf665b7fb3ff858b63"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -128,8 +128,8 @@
         "ficheros": 1,
         "bytes": 10913,
         "ejecutables": false,
-        "tokens": 2636,
-        "skillMdSha256": "21f3960f5d7ae2cc95c40896545004dbbcbbd752ea65fc2d53962554d4174220"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -144,8 +144,8 @@
         "ficheros": 1,
         "bytes": 12642,
         "ejecutables": false,
-        "tokens": 3134,
-        "skillMdSha256": "6a624f942e09c69863a4219b9bd5d56975026b67b0c70bc83385ffd2120b6142"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -160,8 +160,8 @@
         "ficheros": 1,
         "bytes": 10910,
         "ejecutables": false,
-        "tokens": 2719,
-        "skillMdSha256": "b60d503925bbaacee7fd63935db70b9ced5b2514ff5a56a672130e01b9690bc5"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -176,8 +176,8 @@
         "ficheros": 1,
         "bytes": 16647,
         "ejecutables": false,
-        "tokens": 4139,
-        "skillMdSha256": "6fa1fcd8420c28daf7e53c5b08b0f20b907911efd2a6d9bce0b9740da20a4008"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -192,8 +192,8 @@
         "ficheros": 1,
         "bytes": 11721,
         "ejecutables": false,
-        "tokens": 2922,
-        "skillMdSha256": "29a3e53d57c0a128831a20730ae874a8c4fda40c001fcdc15f8e9ad4b5f72f1b"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -208,8 +208,8 @@
         "ficheros": 1,
         "bytes": 14141,
         "ejecutables": false,
-        "tokens": 3466,
-        "skillMdSha256": "b7465d187935c52546d39fdc7bd6ac36d94eda25a9500ef8c18b767d2eb116ea"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -224,8 +224,8 @@
         "ficheros": 5,
         "bytes": 41021,
         "ejecutables": true,
-        "tokens": 2306,
-        "skillMdSha256": "21ef828e3a2144245b67f840cc3805f761e98c9acce9a96670b7cd7441353463"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -240,8 +240,8 @@
         "ficheros": 1,
         "bytes": 9629,
         "ejecutables": false,
-        "tokens": 2332,
-        "skillMdSha256": "df66536610071727feae1ca95f3c391c248ad828041750ccd3699cce763aa00b"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -256,8 +256,8 @@
         "ficheros": 1,
         "bytes": 15080,
         "ejecutables": false,
-        "tokens": 3759,
-        "skillMdSha256": "ace4b675999bb504593d572e0f73f3d7e803ad6fddf318445598c82c11939db2"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -272,8 +272,8 @@
         "ficheros": 1,
         "bytes": 13948,
         "ejecutables": false,
-        "tokens": 3473,
-        "skillMdSha256": "e7fcb0820306d46268de9594d676ad98e35040858926c412b7000faa52a61f87"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -288,8 +288,8 @@
         "ficheros": 2,
         "bytes": 26390,
         "ejecutables": false,
-        "tokens": 4129,
-        "skillMdSha256": "bd36a30e55a5f84329a6977eba5e1ab7654146e71eaba88e34337d4ee020460f"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -304,8 +304,8 @@
         "ficheros": 1,
         "bytes": 10564,
         "ejecutables": false,
-        "tokens": 2620,
-        "skillMdSha256": "ed0f90cc5951ddd4bcab7f871f64efec93a49af9279ef93bc470da77ad8da3f7"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -320,8 +320,8 @@
         "ficheros": 2,
         "bytes": 30595,
         "ejecutables": false,
-        "tokens": 4383,
-        "skillMdSha256": "2e3fc60eed5aba97fe416f3f3c9317fdb014a682925ec70a733c3ff99e4b9858"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -336,8 +336,8 @@
         "ficheros": 1,
         "bytes": 11515,
         "ejecutables": false,
-        "tokens": 2828,
-        "skillMdSha256": "726f3e546369db289160b8d42195590f00b6432887e17bf19070dcc9a347fe39"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -352,8 +352,8 @@
         "ficheros": 1,
         "bytes": 10038,
         "ejecutables": false,
-        "tokens": 2491,
-        "skillMdSha256": "c59faf851377f0eeda45306398d16eb96d77ab1c2fd3e1a7fb58e9a0af33c1e9"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -368,8 +368,8 @@
         "ficheros": 1,
         "bytes": 13096,
         "ejecutables": false,
-        "tokens": 3249,
-        "skillMdSha256": "c4b97ce3d7f24be0e67fd612c7595f65504872e3a9f8d338d098b2363fdb66ef"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -384,8 +384,8 @@
         "ficheros": 1,
         "bytes": 16676,
         "ejecutables": false,
-        "tokens": 4112,
-        "skillMdSha256": "a3aa6ba95638497025577469eda10ed17918698209615aeafbc26f131bf2469d"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -400,8 +400,8 @@
         "ficheros": 1,
         "bytes": 10446,
         "ejecutables": false,
-        "tokens": 2446,
-        "skillMdSha256": "30787ef2c77bf1a4729fffed0f6523ba6fcbe81bdc436b36371b78c21394d3c3"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -416,8 +416,8 @@
         "ficheros": 83,
         "bytes": 5554003,
         "ejecutables": false,
-        "tokens": 2984,
-        "skillMdSha256": "a1f288079624402f30682753c1d43920b6664785698d21d3e7aa197450a6448b"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -432,8 +432,8 @@
         "ficheros": 2,
         "bytes": 19564,
         "ejecutables": false,
-        "tokens": 2341,
-        "skillMdSha256": "d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -448,8 +448,8 @@
         "ficheros": 10,
         "bytes": 121756,
         "ejecutables": true,
-        "tokens": 2267,
-        "skillMdSha256": "0f4592dcb53cf2b5d6b7febee6b4152018b565551a1c29e3c612f57b218ab295"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -464,8 +464,8 @@
         "ficheros": 18,
         "bytes": 224992,
         "ejecutables": true,
-        "tokens": 8247,
-        "skillMdSha256": "dcd4803e61e913e6fc27294184cd3a71f09f5e924ff20c8a9a20173e7b3c2bcf"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -480,8 +480,8 @@
         "ficheros": 13,
         "bytes": 144094,
         "ejecutables": false,
-        "tokens": 781,
-        "skillMdSha256": "c35893e221e28895c52143cc11bf30e41a44817796b39d4b15727dadc9796552"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -496,8 +496,8 @@
         "ficheros": 6,
         "bytes": 22394,
         "ejecutables": true,
-        "tokens": 965,
-        "skillMdSha256": "51b7349e77ec63b7744a6f63647e7566a0b4d2e301121cc10e8c2113af6556a2"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -512,8 +512,8 @@
         "ficheros": 4,
         "bytes": 43736,
         "ejecutables": false,
-        "tokens": 4802,
-        "skillMdSha256": "5097ae8c11c27e2846be307b30f09ac17333fd1ffab1bae19728c81444767001"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -528,8 +528,8 @@
         "ficheros": 5,
         "bytes": 69232,
         "ejecutables": false,
-        "tokens": 3875,
-        "skillMdSha256": "13c580c2432a4499e9dfdcf5d553df7aa6589e90cf5bd869fb4fbde5caf9f567"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -544,8 +544,8 @@
         "ficheros": 2,
         "bytes": 6770,
         "ejecutables": false,
-        "tokens": 1660,
-        "skillMdSha256": "09eb147f793e4647949edd32dbad278f0554dfb56e0d46b699cd4c2c55bf0357"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -560,8 +560,8 @@
         "ficheros": 3,
         "bytes": 10083,
         "ejecutables": true,
-        "tokens": 2165,
-        "skillMdSha256": "849198df88cdb65fd0d97236604c1fca7ff2f22d2f705f9724a800d0266b118d"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -576,8 +576,8 @@
         "ficheros": 2,
         "bytes": 294,
         "ejecutables": false,
-        "tokens": 39,
-        "skillMdSha256": "caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -592,8 +592,8 @@
         "ficheros": 2,
         "bytes": 1081,
         "ejecutables": false,
-        "tokens": 235,
-        "skillMdSha256": "4cbb043950dad2ffd3662ff1a5a0b51ae676004b5cae10e3787e8ee7a4ee69d3"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -608,8 +608,8 @@
         "ficheros": 3,
         "bytes": 12807,
         "ejecutables": false,
-        "tokens": 1500,
-        "skillMdSha256": "552240a5ab5cec6b67c15dd1ad6e9f6962b1bca6ce870059a8c2713760c20392"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -624,8 +624,8 @@
         "ficheros": 2,
         "bytes": 888,
         "ejecutables": false,
-        "tokens": 199,
-        "skillMdSha256": "985569f15739c713d6784887c3d186d4ef9ac85bec5ad9c068d25bf0739928e4"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -640,8 +640,8 @@
         "ficheros": 4,
         "bytes": 7411,
         "ejecutables": false,
-        "tokens": 905,
-        "skillMdSha256": "5505d25bbaa8fc14a79e4d20163936958992a2995b7f1dd1d6197edc9ed722e0"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -656,8 +656,8 @@
         "ficheros": 6,
         "bytes": 32642,
         "ejecutables": true,
-        "tokens": 913,
-        "skillMdSha256": "7b326b4a2f0f5f85122144628ec02077e48841e0e0e82efce88b3415bcfb7c26"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -672,8 +672,8 @@
         "ficheros": 10,
         "bytes": 79418,
         "ejecutables": true,
-        "tokens": 4575,
-        "skillMdSha256": "057d24b4f36dab38299857777e4c0ca5bcce65d8cf89d917c174c1a0ae23d9f8"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -688,8 +688,8 @@
         "ficheros": 4,
         "bytes": 14824,
         "ejecutables": false,
-        "tokens": 629,
-        "skillMdSha256": "d108cf2b36355ab37eb5962933f4d09785ec002f3105c506129320209306b9d2"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -704,8 +704,8 @@
         "ficheros": 9,
         "bytes": 22850,
         "ejecutables": true,
-        "tokens": 943,
-        "skillMdSha256": "0ffaabcc8e0990627c4725f18bf1c7955534a796c1c199e872909de2013ce6a8"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -720,8 +720,8 @@
         "ficheros": 13,
         "bytes": 411749,
         "ejecutables": false,
-        "tokens": 2153,
-        "skillMdSha256": "7b3dae1ffc5434d890f3c65c8f552af52d0307fab3b35dec13013c9ca3844c4f"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -736,8 +736,8 @@
         "ficheros": 8,
         "bytes": 73946,
         "ejecutables": true,
-        "tokens": 2518,
-        "skillMdSha256": "6ee10d1481b8a2580d5336ff66c5c08acc9d4b251b13bbc3bfd31be99c261d43"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -752,8 +752,8 @@
         "ficheros": 11,
         "bytes": 40842,
         "ejecutables": true,
-        "tokens": 2377,
-        "skillMdSha256": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -768,8 +768,8 @@
         "ficheros": 2,
         "bytes": 17846,
         "ejecutables": false,
-        "tokens": 2389,
-        "skillMdSha256": "64b03fce4aee5a97a93160cea8111f3ba13a17b7c001db4bd5836d67fd10705d"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -784,8 +784,8 @@
         "ficheros": 1,
         "bytes": 3646,
         "ejecutables": false,
-        "tokens": 900,
-        "skillMdSha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -800,15 +800,15 @@
         "ficheros": 1,
         "bytes": 10335,
         "ejecutables": false,
-        "tokens": 2579,
-        "skillMdSha256": "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
       "id": "vercel/composition-patterns",
       "entra": true,
-      "nivel": "aviso",
-      "causa": "su nombre («vercel-composition-patterns») no coincide con su carpeta («composition-patterns»)",
+      "nivel": "ok",
+      "causa": "commit fijado, huella del árbol y licencia que deja redistribuir",
       "medidas": {
         "arbolSha256": "8b67145fc3996d42af07ddf710c9900eb80b7bcad3aaecf008127782509006e1",
         "licencia": "MIT",
@@ -816,15 +816,15 @@
         "ficheros": 14,
         "bytes": 50339,
         "ejecutables": false,
-        "tokens": 721,
-        "skillMdSha256": "e38e0eaa609316b10423a9a138ed95e35099accd3f735585295c8a8f165c28a3"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
       "id": "vercel/react-best-practices",
       "entra": true,
       "nivel": "aviso",
-      "causa": "trae 76 ficheros · su nombre («vercel-react-best-practices») no coincide con su carpeta («react-best-practices»)",
+      "causa": "trae 76 ficheros",
       "medidas": {
         "arbolSha256": "741c320ab924f3d033c763574c1a166e4318454937dce6e10015f0230830a6bf",
         "licencia": "MIT",
@@ -832,15 +832,15 @@
         "ficheros": 76,
         "bytes": 230383,
         "ejecutables": false,
-        "tokens": 1813,
-        "skillMdSha256": "71ed7794962fa6e803ee83030517b5b93a9f70fbfeb431ec4535c5480a8d8355"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
       "id": "vercel/react-view-transitions",
       "entra": true,
-      "nivel": "aviso",
-      "causa": "su nombre («vercel-react-view-transitions») no coincide con su carpeta («react-view-transitions»)",
+      "nivel": "ok",
+      "causa": "commit fijado, huella del árbol y licencia que deja redistribuir",
       "medidas": {
         "arbolSha256": "ada4ee14b4b8380bb921b3a720c1f92fbd5e8c6aad4e3991702d3c8bd08919a8",
         "licencia": "MIT",
@@ -848,8 +848,8 @@
         "ficheros": 9,
         "bytes": 121681,
         "ejecutables": false,
-        "tokens": 3585,
-        "skillMdSha256": "1520343c8814c972fee001cac6d6185976d6eb3f4edcac33afe95c10f3b3228b"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -864,8 +864,8 @@
         "ficheros": 1,
         "bytes": 1231,
         "ejecutables": false,
-        "tokens": 308,
-        "skillMdSha256": "f4647ca866a3accf763777f83e7682954f0187cd6bea7eea0399796652414e8f"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     },
     {
@@ -880,16 +880,16 @@
         "ficheros": 1,
         "bytes": 1233,
         "ejecutables": false,
-        "tokens": 308,
-        "skillMdSha256": "89a5f581193289b80af58b980090aeed535047c8df2b55ccbaae0de40283a99d"
+        "tokens": null,
+        "skillMdSha256": ""
       }
     }
   ],
   "firma": {
     "algorithm": "ed25519-sha512",
-    "signature": "bddAdZyQXqEc3CxwWv7H4V5yRd/TkCPz2aKr5mqrgOvhLfh+gwcl5OdmHrczOj4Ph+mSkPqlibMNCHuFGxpSAg==",
-    "signed_at": "2026-10-20T05:42:52.643Z",
+    "signature": "KJ8PStnaUtyNnrl7ZX7hq7Rh4p4LQtEBVD23cCWXuus4z52Bdzx2LHZdI775UnX64Gp3Q8Ir6QWE41MwpaWTCQ==",
+    "signed_at": "2026-10-20T18:42:56.970Z",
     "signed_by": "adaaf79999a7296f",
-    "hash": "M28fCVin9VwO2oSnqlqEIlaY85rIu7Y5RaFK87N2leo="
+    "hash": "uHLYiDWfwM8YTFX0s0OE2/0+b2qWTFe3JvsUe9Rf63o="
   }
 }
