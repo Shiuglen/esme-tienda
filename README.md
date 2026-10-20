@@ -28,6 +28,15 @@ El formato firmado es una spec abierta (`estandar/skill-veredicto.spec.yaml` en 
 kit de Esme): quien produce y quien verifica sacan los mismos bytes porque el orden
 de las claves es parte del contrato.
 
+## De dónde sale el catálogo de productos
+
+La app **nunca firma**: genera el catálogo sin firmar (`app/scripts/catalogo-productos.mjs`),
+y el kit lo firma y lo publica aquí (`npm run tienda:publicar -- --productos <ruta>`).
+El formato es la spec abierta `estandar/catalogo-productos.spec.yaml`.
+
+Lo que llega con una firma válida sustituye a lo que venía en la app cuando tiene
+el mismo id: lo firmado manda sobre lo empaquetado.
+
 Para regenerarlo y publicarlo:
 
 ```bash
